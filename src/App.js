@@ -114,7 +114,7 @@ function App() {
               <div class="projectTitleContainer">
                 <span class="projectTitle">안내 방송 프로그램</span> <span class="footnote"><AiFillWindows/></span> <span class="footnote"><SiCsharp/></span>
               </div>
-              <div class="githubLink">스케줄 설정에 관련된 코드로 인해 소스코드를 열람 할 수 없어요.</div>
+              <div class="githubLink">스케줄 설정에 관련된 코드로 인해 소스코드를 열람 할 수 없어요.<br/>전국의 <a href="https://starbucks.co.kr">스타벅스</a>에서 사용하고 있어요.</div>
               <div class="descriptionContainer">
                 <Swiper slidesPerView={1}
                   direction='horizontal'
