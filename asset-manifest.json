@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd152e76.chunk.css",
-    "main.js": "/static/js/main.281bb826.chunk.js",
+    "main.css": "/static/css/main.c4d7e5a9.chunk.css",
+    "main.js": "/static/js/main.ea475ec4.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.53ffab46.js",
-    "static/css/2.a1f2f46b.chunk.css": "/static/css/2.a1f2f46b.chunk.css",
-    "static/js/2.2db1c764.chunk.js": "/static/js/2.2db1c764.chunk.js",
+    "static/css/2.ddc22708.chunk.css": "/static/css/2.ddc22708.chunk.css",
+    "static/js/2.4cc072c7.chunk.js": "/static/js/2.4cc072c7.chunk.js",
     "static/js/3.fc988679.chunk.js": "/static/js/3.fc988679.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.2db1c764.chunk.js.LICENSE.txt": "/static/js/2.2db1c764.chunk.js.LICENSE.txt",
+    "static/js/2.4cc072c7.chunk.js.LICENSE.txt": "/static/js/2.4cc072c7.chunk.js.LICENSE.txt",
     "static/media/GameIngame.964a952c.gif": "/static/media/GameIngame.964a952c.gif",
     "static/media/GameMusicSelect.c7f77562.gif": "/static/media/GameMusicSelect.c7f77562.gif",
     "static/media/GameOver.608042c8.png": "/static/media/GameOver.608042c8.png",
@@ -21,9 +21,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.53ffab46.js",
-    "static/css/2.a1f2f46b.chunk.css",
-    "static/js/2.2db1c764.chunk.js",
-    "static/css/main.bd152e76.chunk.css",
-    "static/js/main.281bb826.chunk.js"
+    "static/css/2.ddc22708.chunk.css",
+    "static/js/2.4cc072c7.chunk.js",
+    "static/css/main.c4d7e5a9.chunk.css",
+    "static/js/main.ea475ec4.chunk.js"
   ]
 }
